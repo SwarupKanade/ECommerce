@@ -62,7 +62,7 @@ Follow these steps to set up and run the project on your local machine.
 
 Clone the project:
 ```bash
-git clone https://github.com/yourusername/ecommerce-project.git
+git clone https://github.com/SwarupKanade/ECommerce.git
 ```
 Change directory to the Client and Server folders and install dependencies:
 ```bash
@@ -95,5 +95,5 @@ We welcome contributions from the community. To contribute to this project, plea
 - Thanks to [Hasan](https://github.com/hasan-py) for providing the initial version.
 
 ## Developers
-- Swarup Kanade [@swarupkanade](https://www.github.com/swarupkanade)
 - Omkar Kanade [@omkarkanade](https://www.github.com/omkarkanade)
+- Swarup Kanade [@swarupkanade](https://www.github.com/swarupkanade)
